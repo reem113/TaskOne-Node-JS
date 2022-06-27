@@ -1,3 +1,2 @@
 # TaskOne-Node-JS
-Simple Node.js Code
-# Node.js Course- ITI
+Node.js Code that creates a simple api with express that deals with (add - patch - delete) functions
